@@ -13,10 +13,10 @@ As you can see there is a circle being drawn over the graph, here is the the gra
 ![alt MikitaLisavets codepen revealed](README/codepen3.jpg?raw=true "MikitaLisavets codepen revealed")
 
 So the requirements:
-[ ] Donut Graph
-[ ] Display any percentage
-[ ] Transparent center
-[ ] Work in React
+- [ ] Donut Graph
+- [ ] Display any percentage
+- [ ] Transparent center
+- [ ] Work in React
 
 Checkout this codepen to see what I have made [https://codepen.io/Khaoz-Topsy/pen/pGqVmM](https://codepen.io/Khaoz-Topsy/pen/pGqVmM)
 
