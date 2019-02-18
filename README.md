@@ -9,6 +9,7 @@ Buuuuut if we change the background we can see the trick that was used
 ![alt MikitaLisavets codepen edited](README/codepen2.jpg?raw=true "MikitaLisavets codepen edited")
 
 As you can see there is a circle being drawn over the graph, here is the the graph without the circle on top
+
 ![alt MikitaLisavets codepen revealed](README/codepen3.jpg?raw=true "MikitaLisavets codepen revealed")
 
 So the requirements:
@@ -18,6 +19,7 @@ So the requirements:
 [ ] Work in React
 
 Checkout this codepen to see what I have made [https://codepen.io/Khaoz-Topsy/pen/pGqVmM](https://codepen.io/Khaoz-Topsy/pen/pGqVmM)
-![My codepen] (README/codepenResult.png)
+
+![My codepen](README/codepenResult.png)
 
 P.S. no npm package so you will have to copy pasta
