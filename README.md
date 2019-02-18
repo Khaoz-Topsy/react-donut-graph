@@ -20,6 +20,6 @@ So the requirements:
 
 Checkout this codepen to see what I have made [https://codepen.io/Khaoz-Topsy/pen/pGqVmM](https://codepen.io/Khaoz-Topsy/pen/pGqVmM)
 
-![My codepen](README/codepenResult.png)
+![My codepen](README/codepenResult.jpg)
 
 P.S. no npm package so you will have to copy pasta
